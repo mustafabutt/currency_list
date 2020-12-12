@@ -1,0 +1,18 @@
+
+.borderClass {
+  border: 2px solid black;
+}
+.marginL {
+  margin-left: 15px;
+}
+.tableWidth {
+  width: 70%;
+}
+.currencyStatementStyle{
+  position: absolute;
+  margin-left: 770px;
+  margin-top: -330px;
+}
+.tableColor{
+  background-color: #8cbbef
+}

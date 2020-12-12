@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nest.currencies"}],"uuid":"57530120138b4e3ebbc5b22634f905f3"}

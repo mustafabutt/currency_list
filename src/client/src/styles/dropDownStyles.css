@@ -1,0 +1,14 @@
+.positionClass {
+  position:relative;
+
+  padding-top:150px;
+}
+.sizeClass {
+  width: 200px;
+}
+
+.currencyDropDownStyle{
+  position: absolute;
+  margin-left: 550px;
+  margin-top: -340px;
+}
