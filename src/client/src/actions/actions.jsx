@@ -36,6 +36,8 @@ export const getIp = () => dispatch => {
                 });
             });
     })
+  
+  //uncomment this code and comment above block of code if http://ipapi.com/ does not respond due to call limit
     
     // setTimeout(()=>{
     //     dispatch({
